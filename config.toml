@@ -1,0 +1,9 @@
+baseurl = ""
+languageCode = "hr-hr"
+title = "golang Hrvatska"
+theme = "golanghr"
+
+[params]
+	githubName = "golanghr"
+	#twitterName = "golanghr"
+	slackName = "golanghr"
