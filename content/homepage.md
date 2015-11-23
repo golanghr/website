@@ -11,7 +11,7 @@ Mi smo Hrvatska grupa entuzijasta za [Go][golang] programski jezik
 
 ## Druženja uživo
 
-- [U gradu zagrebu](https://www.meetup.com/Golang-ZG)
+- [U gradu Zagrebu](https://www.meetup.com/Golang-ZG)
 
 ## Internet mjesta
 
