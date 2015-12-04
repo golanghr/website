@@ -77,6 +77,7 @@ conduct-related issues. Their purpose is to de-escalate conflicts and try to res
 They are:
 
   - Davor Kapsa <davor.kapsa@gmail.com>
+  - Matej Baco <matejbaco@gmail.com>
   - Nevio Vesic <nevio.vesic@gmail.com>
 
 If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. Do not post 
