@@ -11,7 +11,7 @@ Mi smo Hrvatska grupa entuzijasta za [Go][golang] programski jezik
 
 ## Obavijesti
 
-- Druženje u Zagrebu povodom izlaska ver. 1.6 ([prijava](http://www.meetup.com/Golang-ZG/events/228863217/))
+- 17.2.2016. u 18h druženje u Zagrebu povodom izlaska ver. 1.6 ([prijava](http://www.meetup.com/Golang-ZG/events/228863217/))
 
 ## Druženja uživo
 
