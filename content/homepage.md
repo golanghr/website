@@ -9,10 +9,6 @@ Mi smo Hrvatska grupa entuzijasta za [Go][golang] programski jezik
 
 [Go][golang] je programski jezik otvorenog koda koji olakšava izradu jednostavnog, pouzdanog i učinkovitog softvera.
 
-## Obavijesti
-
-- 30.3.2016. u 18h GoLang Talks #3 u Zagrebu klub MaMa ([prijava](http://www.meetup.com/Golang-ZG/events/229616950/))
-
 ## Druženja uživo
 
 - [U gradu Zagrebu](https://www.meetup.com/Golang-ZG)
